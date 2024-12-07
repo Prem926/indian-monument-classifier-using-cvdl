@@ -25,7 +25,11 @@ TensorFlow & Keras for deep learning
 EfficientNetB3 for transfer learning
 OpenCV, PIL, and NumPy for image handling
 BeautifulSoup for web scraping
-Matplotlib for data visualization
+Matplotlib for data visualization 
+
+I have given 2 files one is in streamlit which shows every pre-processing and another is the Colab file for model training 
+![image](https://github.com/user-attachments/assets/99a20098-9b5a-480f-ae3f-6b55f4ba6222)
+
 
 Applications:
 Cultural heritage preservation and analysis
